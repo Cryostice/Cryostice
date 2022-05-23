@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ryostice
+- 👀 I’m interested in Minecraft, programming, and art
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 How to reach me: cryostice#9572 on discord
